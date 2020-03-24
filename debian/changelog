@@ -1,8 +1,8 @@
-corosync-qdevice (3.0.0-5) unstable; urgency=medium
+corosync-qdevice (3.0.0+pve-1) pve; urgency=medium
 
   * drop problematic sys-v init script
 
- -- Proxmox Support Team <support@proxmox.com>  Tue, 24 Mar 2020 16:24:54 +0100
+ -- Proxmox Support Team <support@proxmox.com>  Tue, 24 Mar 2020 17:13:53 +0100
 
 corosync-qdevice (3.0.0-4) unstable; urgency=medium
 
