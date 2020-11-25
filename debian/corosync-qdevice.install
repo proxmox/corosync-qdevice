@@ -6,3 +6,4 @@ usr/sbin/corosync-qdevice-tool
 usr/share/man/man8/corosync-qdevice.8
 usr/share/man/man8/corosync-qdevice-net-certutil.8
 usr/share/man/man8/corosync-qdevice-tool.8
+usr/share/pkgconfig/corosync-qdevice.pc
