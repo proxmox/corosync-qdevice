@@ -1,3 +1,9 @@
+corosync-qdevice (3.0.1+pve-1) pve; urgency=medium
+
+  * update to new upstream v3.0.1 release
+
+ -- Proxmox Support Team <support@proxmox.com>  Thu, 28 Jan 2021 14:46:57 +0100
+
 corosync-qdevice (3.0.0+pve-1) pve; urgency=medium
 
   * drop problematic sys-v init script
