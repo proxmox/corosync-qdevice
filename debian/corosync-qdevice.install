@@ -1,3 +1,4 @@
+etc/default/corosync-qdevice
 lib/systemd/system/corosync-qdevice.service
 usr/sbin/corosync-qdevice
 usr/sbin/corosync-qdevice-net-certutil

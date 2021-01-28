@@ -22,6 +22,9 @@ override_dh_auto_install:
 	dh_auto_install
 # we don't need the upstream license
 	rm debian/tmp/usr/share/doc/corosync-qdevice/LICENSE
+# install sysconfig files
+	install -D -m 644 init/corosync-qdevice.sysconfig.example debian/tmp/etc/default/corosync-qdevice
+	install -D -m 644 init/corosync-qnetd.sysconfig.example debian/tmp/etc/default/corosync-qnetd
 
 override_dh_missing:
 	dh_missing --fail-missing

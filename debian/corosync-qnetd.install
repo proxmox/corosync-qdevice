@@ -1,4 +1,5 @@
 etc/corosync/qnetd
+etc/default/corosync-qnetd
 lib/systemd/system/corosync-qnetd.service
 usr/bin/corosync-qnetd
 usr/bin/corosync-qnetd-certutil
